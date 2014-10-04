@@ -1,5 +1,7 @@
 Package.describe({
     summary: "Timing package for eval of meteor-enc",
+    name: "mylar:timing",
+    git: "https://github.com/gliesesoftware/mylar-timing.git"
 });
 
 Package.onUse(function (api) {
