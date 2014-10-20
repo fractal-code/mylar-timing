@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Timing package for eval of meteor-enc",
-    version: "0.0.1",
+    version: "0.1.0",
     name: "mylar:timing",
     git: "https://github.com/gliesesoftware/mylar-timing.git"
 });
